@@ -1,4 +1,15 @@
 React Developers TASK 5:
+
+1,Navigate to backend folder:   cd D:\for_showreel\project\server
+2,npm install
+3,Run the backend server: node server.cjs
+4,Navigate to frontend root folder:
+5,cd D:\for_showreel\project
+6,npm install
+7,npm run dev
+
+
+
 Task: Implement Request Logging Middleware in Express
 Task Overview:
 In our full-stack book management application, it's crucial to have a mechanism for logging incoming requests to aid in debugging and monitoring. This task involves implementing request logging middleware in Express to capture essential information about incoming requests, such as the request method, URL, and timestamp. The logged information should be stored in a file for future reference and debugging purposes.
